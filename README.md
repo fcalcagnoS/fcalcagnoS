@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @fcalcagnoS
 - 👀 I’m interested in Deeo Learning, Data Science and AI.
-- 🌱 I’m currently learning CloudOps Operations
-- 💞️ I’m looking to collaborate on anything !
 - 📫 How to reach me facundo.calcagno@servier.Com
 
 <!---
