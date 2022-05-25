@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fcalcagnoS
-- 👀 I’m interested in Deeo Learning, Data Science and AI.
+- 👀 I’m interested in Deep Learning, Data Science and AI.
 - 📫 How to reach me facundo.calcagno@servier.Com
 
 <!---
